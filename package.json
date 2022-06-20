@@ -1,0 +1,10 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend of the board game",
+  "main": "index.js",
+  "repository": "https://github.com/mrarslanark/monadical-be",
+  "author": "Arslan Mushtaq",
+  "license": "MIT",
+  "private": false
+}
